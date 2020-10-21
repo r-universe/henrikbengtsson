@@ -70,6 +70,10 @@
 	path = matrixStats
 	url = https://github.com/henrikbengtsson/matrixstats
 	shallow = true
+[submodule "parallelly"]
+	path = parallelly
+	url = https://github.com/henrikbengtsson/parallelly
+	shallow = true
 [submodule "profmem"]
 	path = profmem
 	url = https://github.com/henrikbengtsson/profmem
