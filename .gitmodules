@@ -43,10 +43,6 @@
 	path = future.apply
 	url = https://github.com/henrikbengtsson/future.apply
 	shallow = true
-[submodule "future.BatchJobs"]
-	path = future.BatchJobs
-	url = https://github.com/henrikbengtsson/future.batchjobs
-	shallow = true
 [submodule "future.batchtools"]
 	path = future.batchtools
 	url = https://github.com/henrikbengtsson/future.batchtools
