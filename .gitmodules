@@ -123,3 +123,15 @@
 	path = startup
 	url = https://github.com/henrikbengtsson/startup
 	shallow = true
+[submodule "affxparser"]
+	path = affxparser
+	url = https://github.com/henrikbengtsson/affxparser
+	shallow = true
+[submodule "aroma.light"]
+	path = aroma.light
+	url = https://github.com/henrikbengtsson/aroma.light
+	shallow = true
+[submodule "illuminaio"]
+	path = illuminaio
+	url = https://github.com/henrikbengtsson/illuminaio
+	shallow = true
