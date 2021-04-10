@@ -7,131 +7,164 @@
 	path = ACNE
 	url = https://github.com/henrikbengtsson/acne
 	shallow = true
+	registered = true
 [submodule "aroma.affymetrix"]
 	path = aroma.affymetrix
 	url = https://github.com/henrikbengtsson/aroma.affymetrix
 	shallow = true
+	registered = true
 [submodule "aroma.apd"]
 	path = aroma.apd
 	url = https://github.com/henrikbengtsson/aroma.apd
 	shallow = true
+	registered = true
 [submodule "aroma.cn"]
 	path = aroma.cn
 	url = https://github.com/henrikbengtsson/aroma.cn
 	shallow = true
+	registered = true
 [submodule "aroma.core"]
 	path = aroma.core
 	url = https://github.com/henrikbengtsson/aroma.core
 	shallow = true
+	registered = true
 [submodule "calmate"]
 	path = calmate
 	url = https://github.com/henrikbengtsson/calmate
 	shallow = true
+	registered = true
 [submodule "dChipIO"]
 	path = dChipIO
 	url = https://github.com/henrikbengtsson/dchipio
 	shallow = true
+	registered = true
 [submodule "doFuture"]
 	path = doFuture
 	url = https://github.com/henrikbengtsson/dofuture
 	shallow = true
+	registered = true
 [submodule "future"]
 	path = future
 	url = https://github.com/henrikbengtsson/future
 	shallow = true
+	registered = true
 [submodule "future.apply"]
 	path = future.apply
 	url = https://github.com/henrikbengtsson/future.apply
 	shallow = true
+	registered = true
 [submodule "future.batchtools"]
 	path = future.batchtools
 	url = https://github.com/henrikbengtsson/future.batchtools
 	shallow = true
+	registered = true
 [submodule "future.callr"]
 	path = future.callr
 	url = https://github.com/henrikbengtsson/future.callr
 	shallow = true
+	registered = true
 [submodule "future.tests"]
 	path = future.tests
 	url = https://github.com/henrikbengtsson/future.tests
 	shallow = true
+	registered = true
 [submodule "globals"]
 	path = globals
 	url = https://github.com/henrikbengtsson/globals
 	shallow = true
+	registered = true
 [submodule "listenv"]
 	path = listenv
 	url = https://github.com/henrikbengtsson/listenv
 	shallow = true
+	registered = true
 [submodule "matrixStats"]
 	path = matrixStats
 	url = https://github.com/henrikbengtsson/matrixstats
 	shallow = true
+	registered = true
 [submodule "parallelly"]
 	path = parallelly
 	url = https://github.com/henrikbengtsson/parallelly
 	shallow = true
+	registered = true
 [submodule "profmem"]
 	path = profmem
 	url = https://github.com/henrikbengtsson/profmem
 	shallow = true
+	registered = true
 [submodule "progressr"]
 	path = progressr
 	url = https://github.com/henrikbengtsson/progressr
 	shallow = true
+	registered = true
 [submodule "PSCBS"]
 	path = PSCBS
 	url = https://github.com/henrikbengtsson/pscbs
 	shallow = true
+	registered = true
 [submodule "R.cache"]
 	path = R.cache
 	url = https://github.com/henrikbengtsson/r.cache
 	shallow = true
+	registered = true
 [submodule "R.devices"]
 	path = R.devices
 	url = https://github.com/henrikbengtsson/r.devices
 	shallow = true
+	registered = true
 [submodule "R.filesets"]
 	path = R.filesets
 	url = https://github.com/henrikbengtsson/r.filesets
 	shallow = true
+	registered = true
 [submodule "R.huge"]
 	path = R.huge
 	url = https://github.com/henrikbengtsson/r.huge
 	shallow = true
+	registered = true
 [submodule "R.matlab"]
 	path = R.matlab
 	url = https://github.com/henrikbengtsson/r.matlab
 	shallow = true
+	registered = true
 [submodule "R.methodsS3"]
 	path = R.methodsS3
 	url = https://github.com/henrikbengtsson/r.methodss3
 	shallow = true
+	registered = true
 [submodule "R.oo"]
 	path = R.oo
 	url = https://github.com/henrikbengtsson/r.oo
 	shallow = true
+	registered = true
 [submodule "R.rsp"]
 	path = R.rsp
 	url = https://github.com/henrikbengtsson/r.rsp
 	shallow = true
+	registered = true
 [submodule "R.utils"]
 	path = R.utils
 	url = https://github.com/henrikbengtsson/r.utils
 	shallow = true
+	registered = true
 [submodule "startup"]
 	path = startup
 	url = https://github.com/henrikbengtsson/startup
 	shallow = true
+	registered = true
 [submodule "affxparser"]
 	path = affxparser
 	url = https://github.com/henrikbengtsson/affxparser
 	shallow = true
+	registered = true
 [submodule "aroma.light"]
 	path = aroma.light
 	url = https://github.com/henrikbengtsson/aroma.light
 	shallow = true
+	registered = true
 [submodule "illuminaio"]
 	path = illuminaio
 	url = https://github.com/henrikbengtsson/illuminaio
 	shallow = true
+	registered = true
