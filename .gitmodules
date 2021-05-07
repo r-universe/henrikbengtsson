@@ -153,6 +153,11 @@
 	url = https://github.com/henrikbengtsson/startup
 	shallow = true
 	registered = true
+[submodule "TopDom"]
+	path = TopDom
+	url = https://github.com/henrikbengtsson/topdom
+	shallow = true
+	registered = true
 [submodule "affxparser"]
 	path = affxparser
 	url = https://github.com/henrikbengtsson/affxparser
