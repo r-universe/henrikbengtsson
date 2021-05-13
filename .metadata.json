@@ -1,0 +1,138 @@
+[
+  {
+    "package": "ACNE",
+    "oncran": true
+  },
+  {
+    "package": "aroma.affymetrix",
+    "oncran": true
+  },
+  {
+    "package": "aroma.apd",
+    "oncran": true
+  },
+  {
+    "package": "aroma.cn",
+    "oncran": true
+  },
+  {
+    "package": "aroma.core",
+    "oncran": true
+  },
+  {
+    "package": "calmate",
+    "oncran": true
+  },
+  {
+    "package": "dChipIO",
+    "oncran": true
+  },
+  {
+    "package": "doFuture",
+    "oncran": true
+  },
+  {
+    "package": "future",
+    "oncran": true
+  },
+  {
+    "package": "future.apply",
+    "oncran": true
+  },
+  {
+    "package": "future.batchtools",
+    "oncran": true
+  },
+  {
+    "package": "future.callr",
+    "oncran": true
+  },
+  {
+    "package": "future.tests",
+    "oncran": true
+  },
+  {
+    "package": "globals",
+    "oncran": true
+  },
+  {
+    "package": "listenv",
+    "oncran": true
+  },
+  {
+    "package": "matrixStats",
+    "oncran": true
+  },
+  {
+    "package": "parallelly",
+    "oncran": true
+  },
+  {
+    "package": "profmem",
+    "oncran": true
+  },
+  {
+    "package": "progressr",
+    "oncran": true
+  },
+  {
+    "package": "PSCBS",
+    "oncran": true
+  },
+  {
+    "package": "R.cache",
+    "oncran": true
+  },
+  {
+    "package": "R.devices",
+    "oncran": true
+  },
+  {
+    "package": "R.filesets",
+    "oncran": true
+  },
+  {
+    "package": "R.huge",
+    "oncran": true
+  },
+  {
+    "package": "R.matlab",
+    "oncran": true
+  },
+  {
+    "package": "R.methodsS3",
+    "oncran": true
+  },
+  {
+    "package": "R.oo",
+    "oncran": true
+  },
+  {
+    "package": "R.rsp",
+    "oncran": true
+  },
+  {
+    "package": "R.utils",
+    "oncran": true
+  },
+  {
+    "package": "startup",
+    "oncran": true
+  },
+  {
+    "package": "TopDom",
+    "oncran": true
+  },
+  {
+    "package": "affxparser",
+    "oncran": true
+  },
+  {
+    "package": "aroma.light",
+    "oncran": true
+  },
+  {
+    "package": "illuminaio",
+    "oncran": true
+  }
+]
