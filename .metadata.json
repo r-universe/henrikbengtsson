@@ -124,15 +124,12 @@
     "oncran": true
   },
   {
-    "package": "affxparser",
-    "oncran": true
+    "package": "affxparser"
   },
   {
-    "package": "aroma.light",
-    "oncran": true
+    "package": "aroma.light"
   },
   {
-    "package": "illuminaio",
-    "oncran": true
+    "package": "illuminaio"
   }
 ]
