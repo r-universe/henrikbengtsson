@@ -68,6 +68,10 @@
     "oncran": true
   },
   {
+    "package": "port4me",
+    "oncran": true
+  },
+  {
     "package": "profmem",
     "oncran": true
   },

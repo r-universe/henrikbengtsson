@@ -105,6 +105,13 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "port4me"]
+	path = port4me
+	url = https://github.com/HenrikBengtsson/port4me
+	shallow = true
+	branch = main
+	subdir = r
+	registered = true
 [submodule "profmem"]
 	path = profmem
 	url = https://github.com/HenrikBengtsson/profmem
