@@ -226,3 +226,9 @@
 	shallow = true
 	branch = master
 	registered = true
+[submodule "HaarSeg"]
+	path = HaarSeg
+	url = https://github.com/HenrikBengtsson/HaarSeg
+	shallow = true
+	branch = main
+	registered = true

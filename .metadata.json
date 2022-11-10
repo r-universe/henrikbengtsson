@@ -141,5 +141,8 @@
   },
   {
     "package": "expectile"
+  },
+  {
+    "package": "HaarSeg"
   }
 ]
