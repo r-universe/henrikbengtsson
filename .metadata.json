@@ -144,5 +144,8 @@
   },
   {
     "package": "HaarSeg"
+  },
+  {
+    "package": "doFuture.tests.extra"
   }
 ]

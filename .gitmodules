@@ -232,3 +232,9 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "doFuture.tests.extra"]
+	path = doFuture.tests.extra
+	url = https://github.com/HenrikBengtsson/doFuture.tests.extra
+	shallow = true
+	branch = main
+	registered = true
