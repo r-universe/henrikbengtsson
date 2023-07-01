@@ -1,240 +1,161 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/henrikbengtsson/universe
-	shallow = true
 	branch = HEAD
 [submodule "ACNE"]
 	path = ACNE
 	url = https://github.com/HenrikBengtsson/ACNE
-	shallow = true
 	branch = master
-	registered = true
 [submodule "aroma.affymetrix"]
 	path = aroma.affymetrix
 	url = https://github.com/HenrikBengtsson/aroma.affymetrix
-	shallow = true
 	branch = master
-	registered = true
 [submodule "aroma.apd"]
 	path = aroma.apd
 	url = https://github.com/HenrikBengtsson/aroma.apd
-	shallow = true
 	branch = master
-	registered = true
 [submodule "aroma.cn"]
 	path = aroma.cn
 	url = https://github.com/HenrikBengtsson/aroma.cn
-	shallow = true
 	branch = master
-	registered = true
 [submodule "aroma.core"]
 	path = aroma.core
 	url = https://github.com/HenrikBengtsson/aroma.core
-	shallow = true
 	branch = master
-	registered = true
 [submodule "calmate"]
 	path = calmate
 	url = https://github.com/HenrikBengtsson/calmate
-	shallow = true
 	branch = master
-	registered = true
 [submodule "dChipIO"]
 	path = dChipIO
 	url = https://github.com/HenrikBengtsson/dChipIO
-	shallow = true
 	branch = master
-	registered = true
 [submodule "doFuture"]
 	path = doFuture
 	url = https://github.com/HenrikBengtsson/doFuture
-	shallow = true
 	branch = master
-	registered = true
 [submodule "future"]
 	path = future
 	url = https://github.com/HenrikBengtsson/future
-	shallow = true
 	branch = master
-	registered = true
 [submodule "future.apply"]
 	path = future.apply
 	url = https://github.com/HenrikBengtsson/future.apply
-	shallow = true
 	branch = master
-	registered = true
 [submodule "future.batchtools"]
 	path = future.batchtools
 	url = https://github.com/HenrikBengtsson/future.batchtools
-	shallow = true
 	branch = master
-	registered = true
 [submodule "future.callr"]
 	path = future.callr
 	url = https://github.com/HenrikBengtsson/future.callr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "future.tests"]
 	path = future.tests
 	url = https://github.com/HenrikBengtsson/future.tests
-	shallow = true
 	branch = master
-	registered = true
 [submodule "globals"]
 	path = globals
 	url = https://github.com/HenrikBengtsson/globals
-	shallow = true
 	branch = master
-	registered = true
 [submodule "listenv"]
 	path = listenv
 	url = https://github.com/HenrikBengtsson/listenv
-	shallow = true
 	branch = master
-	registered = true
 [submodule "matrixStats"]
 	path = matrixStats
 	url = https://github.com/HenrikBengtsson/matrixStats
-	shallow = true
 	branch = master
-	registered = true
 [submodule "parallelly"]
 	path = parallelly
 	url = https://github.com/HenrikBengtsson/parallelly
-	shallow = true
 	branch = master
-	registered = true
 [submodule "port4me"]
 	path = port4me
 	url = https://github.com/HenrikBengtsson/port4me
-	shallow = true
 	branch = main
 	subdir = r
-	registered = true
 [submodule "profmem"]
 	path = profmem
 	url = https://github.com/HenrikBengtsson/profmem
-	shallow = true
 	branch = master
-	registered = true
 [submodule "progressr"]
 	path = progressr
 	url = https://github.com/HenrikBengtsson/progressr
-	shallow = true
 	branch = master
-	registered = true
 [submodule "PSCBS"]
 	path = PSCBS
 	url = https://github.com/HenrikBengtsson/PSCBS
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.cache"]
 	path = R.cache
 	url = https://github.com/HenrikBengtsson/R.cache
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.devices"]
 	path = R.devices
 	url = https://github.com/HenrikBengtsson/R.devices
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.filesets"]
 	path = R.filesets
 	url = https://github.com/HenrikBengtsson/R.filesets
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.huge"]
 	path = R.huge
 	url = https://github.com/HenrikBengtsson/R.huge
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.matlab"]
 	path = R.matlab
 	url = https://github.com/HenrikBengtsson/R.matlab
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.methodsS3"]
 	path = R.methodsS3
 	url = https://github.com/HenrikBengtsson/R.methodss3
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.oo"]
 	path = R.oo
 	url = https://github.com/HenrikBengtsson/R.oo
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.rsp"]
 	path = R.rsp
 	url = https://github.com/HenrikBengtsson/R.rsp
-	shallow = true
 	branch = master
-	registered = true
 [submodule "R.utils"]
 	path = R.utils
 	url = https://github.com/HenrikBengtsson/R.utils
-	shallow = true
 	branch = master
-	registered = true
 [submodule "startup"]
 	path = startup
 	url = https://github.com/HenrikBengtsson/startup
-	shallow = true
 	branch = master
-	registered = true
 [submodule "TopDom"]
 	path = TopDom
 	url = https://github.com/HenrikBengtsson/TopDom
-	shallow = true
 	branch = master
-	registered = true
 [submodule "affxparser"]
 	path = affxparser
 	url = https://github.com/HenrikBengtsson/affxparser
-	shallow = true
 	branch = master
-	registered = true
 [submodule "aroma.light"]
 	path = aroma.light
 	url = https://github.com/HenrikBengtsson/aroma.light
-	shallow = true
 	branch = master
-	registered = true
 [submodule "illuminaio"]
 	path = illuminaio
 	url = https://github.com/HenrikBengtsson/illuminaio
-	shallow = true
 	branch = master
-	registered = true
 [submodule "sfit"]
 	path = sfit
 	url = https://github.com/HenrikBengtsson/sfit
-	shallow = true
 	branch = master
-	registered = true
 [submodule "expectile"]
 	path = expectile
 	url = https://github.com/HenrikBengtsson/expectile
-	shallow = true
 	branch = master
-	registered = true
 [submodule "HaarSeg"]
 	path = HaarSeg
 	url = https://github.com/HenrikBengtsson/HaarSeg
-	shallow = true
 	branch = main
-	registered = true
 [submodule "doFuture.tests.extra"]
 	path = doFuture.tests.extra
 	url = https://github.com/HenrikBengtsson/doFuture.tests.extra
-	shallow = true
 	branch = main
-	registered = true
