@@ -6,83 +6,10 @@
 	path = ACNE
 	url = https://github.com/HenrikBengtsson/ACNE
 	branch = master
-[submodule "aroma.affymetrix"]
-	path = aroma.affymetrix
-	url = https://github.com/HenrikBengtsson/aroma.affymetrix
-	branch = master
-[submodule "aroma.apd"]
-	path = aroma.apd
-	url = https://github.com/HenrikBengtsson/aroma.apd
-	branch = master
-[submodule "aroma.cn"]
-	path = aroma.cn
-	url = https://github.com/HenrikBengtsson/aroma.cn
-	branch = master
-[submodule "aroma.core"]
-	path = aroma.core
-	url = https://github.com/HenrikBengtsson/aroma.core
-	branch = master
-[submodule "calmate"]
-	path = calmate
-	url = https://github.com/HenrikBengtsson/calmate
-	branch = master
-[submodule "dChipIO"]
-	path = dChipIO
-	url = https://github.com/HenrikBengtsson/dChipIO
-	branch = master
-[submodule "doFuture"]
-	path = doFuture
-	url = https://github.com/HenrikBengtsson/doFuture
-	branch = master
-[submodule "future"]
-	path = future
-	url = https://github.com/HenrikBengtsson/future
-	branch = master
-[submodule "future.apply"]
-	path = future.apply
-	url = https://github.com/HenrikBengtsson/future.apply
-	branch = master
-[submodule "future.batchtools"]
-	path = future.batchtools
-	url = https://github.com/HenrikBengtsson/future.batchtools
-	branch = master
-[submodule "future.callr"]
-	path = future.callr
-	url = https://github.com/HenrikBengtsson/future.callr
-	branch = master
-[submodule "future.tests"]
-	path = future.tests
-	url = https://github.com/HenrikBengtsson/future.tests
-	branch = master
-[submodule "globals"]
-	path = globals
-	url = https://github.com/HenrikBengtsson/globals
-	branch = master
-[submodule "listenv"]
-	path = listenv
-	url = https://github.com/HenrikBengtsson/listenv
-	branch = master
-[submodule "matrixStats"]
-	path = matrixStats
-	url = https://github.com/HenrikBengtsson/matrixStats
-	branch = master
-[submodule "parallelly"]
-	path = parallelly
-	url = https://github.com/HenrikBengtsson/parallelly
-	branch = master
-[submodule "port4me"]
-	path = port4me
-	url = https://github.com/HenrikBengtsson/port4me
+[submodule "HaarSeg"]
+	path = HaarSeg
+	url = https://github.com/HenrikBengtsson/HaarSeg
 	branch = main
-	subdir = r
-[submodule "profmem"]
-	path = profmem
-	url = https://github.com/HenrikBengtsson/profmem
-	branch = master
-[submodule "progressr"]
-	path = progressr
-	url = https://github.com/HenrikBengtsson/progressr
-	branch = master
 [submodule "PSCBS"]
 	path = PSCBS
 	url = https://github.com/HenrikBengtsson/PSCBS
@@ -123,10 +50,6 @@
 	path = R.utils
 	url = https://github.com/HenrikBengtsson/R.utils
 	branch = master
-[submodule "startup"]
-	path = startup
-	url = https://github.com/HenrikBengtsson/startup
-	branch = master
 [submodule "TopDom"]
 	path = TopDom
 	url = https://github.com/HenrikBengtsson/TopDom
@@ -135,27 +58,104 @@
 	path = affxparser
 	url = https://github.com/HenrikBengtsson/affxparser
 	branch = master
+[submodule "aroma.affymetrix"]
+	path = aroma.affymetrix
+	url = https://github.com/HenrikBengtsson/aroma.affymetrix
+	branch = master
+[submodule "aroma.apd"]
+	path = aroma.apd
+	url = https://github.com/HenrikBengtsson/aroma.apd
+	branch = master
+[submodule "aroma.cn"]
+	path = aroma.cn
+	url = https://github.com/HenrikBengtsson/aroma.cn
+	branch = master
+[submodule "aroma.core"]
+	path = aroma.core
+	url = https://github.com/HenrikBengtsson/aroma.core
+	branch = master
 [submodule "aroma.light"]
 	path = aroma.light
 	url = https://github.com/HenrikBengtsson/aroma.light
+	branch = master
+[submodule "calmate"]
+	path = calmate
+	url = https://github.com/HenrikBengtsson/calmate
+	branch = master
+[submodule "dChipIO"]
+	path = dChipIO
+	url = https://github.com/HenrikBengtsson/dChipIO
+	branch = master
+[submodule "doFuture"]
+	path = doFuture
+	url = https://github.com/HenrikBengtsson/doFuture
+	branch = master
+[submodule "doFuture.tests.extra"]
+	path = doFuture.tests.extra
+	url = https://github.com/HenrikBengtsson/doFuture.tests.extra
+	branch = main
+[submodule "expectile"]
+	path = expectile
+	url = https://github.com/HenrikBengtsson/expectile
+	branch = master
+[submodule "future"]
+	path = future
+	url = https://github.com/HenrikBengtsson/future
+	branch = master
+[submodule "future.apply"]
+	path = future.apply
+	url = https://github.com/HenrikBengtsson/future.apply
+	branch = master
+[submodule "future.batchtools"]
+	path = future.batchtools
+	url = https://github.com/HenrikBengtsson/future.batchtools
+	branch = master
+[submodule "future.callr"]
+	path = future.callr
+	url = https://github.com/HenrikBengtsson/future.callr
+	branch = master
+[submodule "future.tests"]
+	path = future.tests
+	url = https://github.com/HenrikBengtsson/future.tests
+	branch = master
+[submodule "globals"]
+	path = globals
+	url = https://github.com/HenrikBengtsson/globals
 	branch = master
 [submodule "illuminaio"]
 	path = illuminaio
 	url = https://github.com/HenrikBengtsson/illuminaio
 	branch = master
+[submodule "listenv"]
+	path = listenv
+	url = https://github.com/HenrikBengtsson/listenv
+	branch = master
+[submodule "matrixStats"]
+	path = matrixStats
+	url = https://github.com/HenrikBengtsson/matrixStats
+	branch = master
+[submodule "parallelly"]
+	path = parallelly
+	url = https://github.com/HenrikBengtsson/parallelly
+	branch = master
+[submodule "port4me"]
+	path = port4me
+	url = https://github.com/HenrikBengtsson/port4me
+	branch = main
+	subdir = r
+[submodule "profmem"]
+	path = profmem
+	url = https://github.com/HenrikBengtsson/profmem
+	branch = master
+[submodule "progressr"]
+	path = progressr
+	url = https://github.com/HenrikBengtsson/progressr
+	branch = master
 [submodule "sfit"]
 	path = sfit
 	url = https://github.com/HenrikBengtsson/sfit
 	branch = master
-[submodule "expectile"]
-	path = expectile
-	url = https://github.com/HenrikBengtsson/expectile
+[submodule "startup"]
+	path = startup
+	url = https://github.com/HenrikBengtsson/startup
 	branch = master
-[submodule "HaarSeg"]
-	path = HaarSeg
-	url = https://github.com/HenrikBengtsson/HaarSeg
-	branch = main
-[submodule "doFuture.tests.extra"]
-	path = doFuture.tests.extra
-	url = https://github.com/HenrikBengtsson/doFuture.tests.extra
-	branch = main
