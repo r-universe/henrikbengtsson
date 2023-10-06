@@ -130,6 +130,10 @@
 	path = listenv
 	url = https://github.com/HenrikBengtsson/listenv
 	branch = master
+[submodule "marshal"]
+	path = marshal
+	url = https://github.com/HenrikBengtsson/marshal
+	branch = main
 [submodule "matrixStats"]
 	path = matrixStats
 	url = https://github.com/HenrikBengtsson/matrixStats
