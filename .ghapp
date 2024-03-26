@@ -1,9 +1,10 @@
 {
   "id": 14162468,
   "created_at": "2021-01-18T21:56:23.000Z",
-  "repository_selection": "all",
+  "repository_selection": "selected",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  }
+  },
+  "repositories": ["henrikbengtsson.r-universe.dev"]
 }
