@@ -14,6 +14,10 @@
 	path = expectile
 	url = https://github.com/HenrikBengtsson/expectile
 	branch = master
+[submodule "parallelly"]
+	path = parallelly
+	url = https://github.com/futureverse/parallelly
+	branch = develop
 [submodule "sfit"]
 	path = sfit
 	url = https://github.com/HenrikBengtsson/sfit
